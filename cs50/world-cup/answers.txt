@@ -1,0 +1,27 @@
+Times:
+real/user/sys
+
+10 simulations: 0m0.028s / 0m0.023s / 0m0.004s
+100 simulations: 0m0.028s / 0m0.020s / 0m0.008s
+1000 simulations: 0m0.034s / 0m0.029s / 0m0.004s
+10000 simulations: 0m0.099s / 0m0.090s / 0m0.004s
+100000 simulations: 0m0.819s / 0m0.782s / 0m0.005s
+1000000 simulations: 0m7.191s / 0m7.076s / 0m0.004s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+    I had no predictions
+    - yungztr
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+    I would say 5000 to 10000 iterations are good enough for statistical data
+    given how many real life statistics (like surveys for example) often do not
+    have more than this amount of participants
+
+    The given subject -> football is also not something so easily predictable with a simple
+    rating of a nation. We all know how France dominated the turney.
+
+    Because we do have a fee involved I would even lower it to have a maximum of
+    5000 Iterations (depending on the fee but lets go with 10ct per run)
