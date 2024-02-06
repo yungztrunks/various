@@ -1,0 +1,12 @@
+{
+    "alphavantage":
+    {
+        "key" :""
+    },
+    "devapi.ai": {
+        "key": "" 
+    },
+    "finazon" : {
+        "key": ""
+    } 
+}
