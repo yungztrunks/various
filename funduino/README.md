@@ -15,7 +15,7 @@ you may need to modify and fine-tune the source code to ensure the programs func
 the following driver found [here](http://www.wch.cn/products/category/1.html) has to be installed in order to work (i think so, may be wrong here). the program is called *ch341ser.exe*
 
 1. some used code in projects
-    1. in the [test-function-program](https://github.com/yungztr/funduino-projects/tree/main/test-all-functions) i used a song found [here on github](https://github.com/robsoncouto/arduino-songs)
+    1. in the [test-function-program](https://github.com/yungztr/various/tree/main/funduino/test-all-functions) i used a song found [here on github](https://github.com/robsoncouto/arduino-songs)
 
 ## shoutout
 
