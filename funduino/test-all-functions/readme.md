@@ -11,5 +11,5 @@ tests every function (... that were installed on my board)
 
 ## sources
 
-1. as mentioned, some drivers and dependencies will be necessary, download them first. some links found [here](https://github.com/yungztr/funduino-projects/blob/main/readme.md)
+1. as mentioned, some drivers and dependencies will be necessary, download them first. some links found [here](https://github.com/yungztr/various/tree/main/funduino/readme.md)
 1. the legend of zelda song playing at the end of each test is from [this](https://github.com/robsoncouto/arduino-songs) github repo
