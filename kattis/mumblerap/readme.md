@@ -3,7 +3,7 @@
 ```text
 one of the worst questions I have ever seen omg... WHO the fuck made this shit?
 the problem itself is ok to solve...
-- yungztr
+- yungztrunks
 ```
 
 ## problem
